@@ -338,7 +338,7 @@ nav {
 }
 
 .footer {
-  background-image: url("Assets/footer-bg.png");
+  background-image:url("Assets/footer.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
